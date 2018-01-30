@@ -1,0 +1,29 @@
+#app {
+  text-align: center;
+}
+
+.field {
+  border: 2px solid rgb(142, 68, 173);
+  padding: 5px;
+  margin: 10px;
+}
+
+.legend {
+  padding: 0.2em;
+  border: 1px solid rgb(142, 68, 173);
+  color: rgb(142, 68, 173);
+  font-size: 20px;
+  text-align: right;
+}
+
+.waterBoil {
+  color: rgb(68, 108, 179);
+  font-size: 50px;
+  text-align: center;
+}
+
+.waterNoBoil {
+  color: rgb(207, 0, 16);
+  font-size: 50px;
+  text-align: center;
+}
